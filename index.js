@@ -1,6 +1,6 @@
 const data = [
   {
-    image: '/img/time-aranha.png',
+    image: './img/time-aranha.png',
     name: 'Homem-Aranha no Aranhaverso',
     description: `Filme de animação estadunidense de 2018, baseado nas histórias em quadrinhos
                   do personagem Miles Morales da Marvel Comics, produzido pela Columbia Pictures
@@ -9,7 +9,7 @@ const data = [
     next: 'Miles Morales'
   },
   {
-    image: '/img/miles-morales.png',
+    image: './img/miles-morales.png',
     name: 'Miles Morales',
     description: `Personagem presente nos quadrinhos da Marvel Comics, que apareceu pela primeira
                   vez em Ultimate Fallout #4. Um adolescente negro com ascendência hispânica, Miles
@@ -18,7 +18,7 @@ const data = [
     next: 'Peter Parker'
   },
   {
-    image: '/img/peter-parker.png',
+    image: './img/peter-parker.png',
     name: 'Peter Parker',
     description: `O Homem-Aranha, o alter ego de Peter Parker, é um super-herói que aparece nas
                   revistas em quadrinhos publicadas pela Marvel Comics. Criado pelo escritor/editor
@@ -27,7 +27,7 @@ const data = [
     next: 'Spider Gwen'
   },
   {
-    image: '/img/spider-gwen.png',
+    image: './img/spider-gwen.png',
     name: 'Spider Gwen',
     description: `Gwen-Aranha (no original, Spider-Gwen) é o alter ego de Gwen Stacy da Terra-65, que 
                   assume a identidade de Mulher-Aranha depois de ter sido picada por uma aranha radioativa, 
@@ -36,7 +36,7 @@ const data = [
     next: 'Spider Noir'
   },
   {
-    image: '/img/spider-noir.png',
+    image: './img/spider-noir.png',
     name: 'Spider Noir',
     description: `Parte do universo Marvel Noir (Terra-90214), esta versão alternativa do Homem-Aranha é uma
                   versão noir do personagem e surge em uma versão de Nova York durante a Grande Depressão. 
@@ -45,7 +45,7 @@ const data = [
     next: 'Peni Parker'
   },
   {
-    image: '/img/peni-parker.png',
+    image: './img/peni-parker.png',
     name: 'Peni Parker',
     description: `super-heroína que aparece nas publicações da Marvel Comics . Ela é uma versão alternativa do
                   Homem-Aranha . A personagem é retratada como uma estudante do ensino médio de 14 anos que 
@@ -54,7 +54,7 @@ const data = [
     next: 'Peter Porker'
   },
   {
-    image: '/img/spider-ham.png',
+    image: './img/spider-ham.png',
     name: 'Peter Porker',
     description: `personagem fictício, uma paródia antropomórfica do popular personagem da Marvel Comics, Homem-Aranha,
                   criado por Tom DeFalco e Mark Armstrong. Sua primeira aparição foi na edição especial cômica Marvel 
