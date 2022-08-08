@@ -1,6 +1,6 @@
 const data = [
   {
-    image: './img/time-aranha.png',
+    image: '/img/time-aranha.png',
     name: 'Homem-Aranha no Aranhaverso',
     description: `Filme de animação estadunidense de 2018, baseado nas histórias em quadrinhos
                   do personagem Miles Morales da Marvel Comics, produzido pela Columbia Pictures
