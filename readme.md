@@ -1,1 +1,1 @@
-<img src="https://github.com/nerd00f/spider-verse/blob/main/readme.png">
+<img src="https://github.com/alan-christian/spider-verse/blob/main/readme.png">
